@@ -5,7 +5,7 @@
 This project uses the `distilbert-base-uncased` model from Hugging Face Transformers to classify political tweets as **real** or **fake** with high accuracy (**98%**).
 
 
-### Features
+## Features
 
 - Preprocessing of noisy tweet data (removing links, mentions, special characters)  
 - Label encoding and data cleaning  
